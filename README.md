@@ -21,7 +21,7 @@ Malaria Dataset = [dataset](https://www.tensorflow.org/datasets/catalog/malaria)
 ### Model Performance Improvement Measures
   - Custom Callbacks
   - Early Stopping
-  - Learning Rate Schedular
+  - Learning Rate Scheduler
   - Custom Training Loop
 ### Visualisation
   - ROC Curve
@@ -31,4 +31,5 @@ Malaria Dataset = [dataset](https://www.tensorflow.org/datasets/catalog/malaria)
     <b> Flow can be visualised as : </b>
     <br>
 
-![MalariaDiagnosis](https://github.com/dishamodi0910/Malarial_Diagnosis_TENSORFLOW/assets/106090499/27a0245b-c3ef-41be-ae3c-b8e64c0896e5)
+
+![MalariaDiagnosis_Tensorflow](https://github.com/dishamodi0910/Malarial_Diagnosis_TENSORFLOW/assets/106090499/996e2a3e-3feb-43fd-92f2-cd2c30f6c62b)
