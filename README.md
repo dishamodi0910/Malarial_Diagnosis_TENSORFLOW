@@ -32,4 +32,5 @@ Malaria Dataset = [dataset](https://www.tensorflow.org/datasets/catalog/malaria)
     <br>
 
 
-![MalariaDiagnosis_Tensorflow](https://github.com/dishamodi0910/Malarial_Diagnosis_TENSORFLOW/assets/106090499/996e2a3e-3feb-43fd-92f2-cd2c30f6c62b)
+![MalariaDiagnosis_Tensorflow](https://github.com/dishamodi0910/Malarial_Diagnosis_TENSORFLOW/assets/106090499/2c17d282-5fab-4daa-a051-8f598d78b28d)
+
